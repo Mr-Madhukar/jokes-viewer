@@ -2,6 +2,8 @@
 
 A responsive, interactive web application that fetches and displays random jokes from the FreeAPI. Built as part of the Web Dev Cohort 2026.
 
+**Live Demo:** [https://jokes-viewer-chaicode.netlify.app/](https://jokes-viewer-chaicode.netlify.app/)
+
 ## 🌟 Features
 
 - **Random Jokes Fetching**: Automatically loads random jokes via the FreeAPI endpoint.
